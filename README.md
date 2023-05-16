@@ -1,3 +1,3 @@
-# webpack-fedaration-sample
+# webpack-federation-sample
 
-Webpack Fedaration Sample
+Webpack Federation Sample
